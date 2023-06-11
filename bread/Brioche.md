@@ -42,3 +42,4 @@ Bake for **45-60 minutes** or until you get an internal temperature of **90$\deg
 
 ## Notes
 - If you don't use any whole wheat flour, you'll need a bit less milk. Try with 90g and add more if it's too dry.
+- Based on [The Perfect Loaf's recipe](https://www.theperfectloaf.com/brioche-hamburger-buns/)
