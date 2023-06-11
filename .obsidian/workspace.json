@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bread/Brioche.md",
+                "file": "bread/brioche.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bread/Brioche.md",
+                "file": "bread/brioche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bread/Brioche.md",
+                "file": "bread/brioche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bread/Brioche.md"
+                "file": "bread/brioche.md"
               }
             }
           }
@@ -164,7 +164,7 @@
   "lastOpenFiles": [
     "bread/Rye Sourdough.md",
     "bread/Sourdough.md",
-    "bread/Brioche.md",
+    "bread/brioche.md",
     "Sourdough.md",
     "Brioche.md",
     "bread",
