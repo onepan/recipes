@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sourdough.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf5a1b9f781a8de4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brioche.md",
+                "file": "bread/Brioche.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6a3d2b42ed59a21e",
@@ -42,12 +29,8 @@
             "id": "a882b528d3c70165",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sourdough.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -116,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brioche.md",
+                "file": "bread/Brioche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brioche.md",
+                "file": "bread/Brioche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brioche.md"
+                "file": "bread/Brioche.md"
               }
             }
           }
@@ -177,10 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf5a1b9f781a8de4",
+  "active": "5fff722401b524fd",
   "lastOpenFiles": [
+    "bread/Rye Sourdough.md",
+    "bread/Sourdough.md",
+    "bread/Brioche.md",
     "Sourdough.md",
-    "Rye sourdough.md",
-    "Brioche.md"
+    "Brioche.md",
+    "bread",
+    "README.md",
+    "Rye sourdough.md"
   ]
 }
